@@ -7,7 +7,7 @@ setup(
     license='MIT',
     description='EDSA example python package',
     long_description=open('README.md').read(),
-    install_requires=['numpy', 'pandas', 'matplotlib', 'seaborn', 'scipy'],
+    install_requires=['pandas', 'matplotlib', 'seaborn', 'scipy'],
     url='https://github.com/<username>/<package-name>',
     author='<Your Name>',
     author_email='<Your Email>'
